@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-
+# 场景:用户User订阅新闻News,每次有更新注册用户都可以收到
 
 class Publisher(object):
     def __init__(self):
