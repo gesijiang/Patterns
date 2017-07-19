@@ -5,4 +5,4 @@
 --装饰器
 --memoization
 --lazy property
-
+--代理
