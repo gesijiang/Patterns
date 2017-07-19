@@ -4,4 +4,5 @@
 --抽象工厂
 --装饰器
 --memoization
+--lazy property
 
