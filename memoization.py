@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
+# 场景:已经运算过的存到缓存中
 
 
 def memoize(fn):
