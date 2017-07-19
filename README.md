@@ -6,3 +6,4 @@
 --memoization
 --lazy property
 --代理
+--适配器
