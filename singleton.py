@@ -1,4 +1,5 @@
 # -*- coding: UTF-8 -*-
 
-class Singleton:
 
+class Singleton:
+    print ''

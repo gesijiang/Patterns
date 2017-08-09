@@ -7,3 +7,5 @@
 --lazy property
 --代理
 --适配器
+--单例
+--multiprocess 生产/消费者
